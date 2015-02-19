@@ -2,7 +2,7 @@
 (function ($) {
     //
     $.fn.bFlipText = function (optns) {
-        //var slctr_obj = this;
+        optns = optns || {};
         optns.unique_id = 'bFlipTextCss' + Math.ceil(Math.random() * 0x1000000).toString() + new Date().getTime().toString();
         this.each(function () {
             var $this = $(this);
