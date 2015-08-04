@@ -7,8 +7,8 @@
   ],
   "description": "jQuery for Flip Text in an awesome way",
   "main": [
-      "jquery.bFlipText.js",
-      "jquery.bFlipText.css"
+    "jquery.bFlipText.js",
+    "jquery.bFlipText.css"
   ],
   "keywords": [
     "text flip",
