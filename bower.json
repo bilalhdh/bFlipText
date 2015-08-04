@@ -1,0 +1,21 @@
+{
+  "name": "bFlipText",
+  "version": "0.0.1",
+  "homepage": "https://github.com/max-z/bFlipText",
+  "authors": [
+    "bilalhdh <myheart_86@hotmail.com>"
+  ],
+  "description": "jQuery for Flip Text in an awesome way",
+  "main": [
+      "jquery.bFlipText.js",
+      "jquery.bFlipText.css",
+  ]
+  "keywords": [
+    "text flip",
+    "airport like"
+  ],
+  "dependencies": {
+      "jquery": ">=1.7"
+  },
+  "license": "MIT"
+}
